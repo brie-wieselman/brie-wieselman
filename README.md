@@ -16,7 +16,7 @@ I designed, built, and ship it myself. It coaches; it does not replace care.
 flowchart LR
     U["iPhone<br/>Capacitor shell"] -->|"OTA bundles"| C["Capgo updater"]
     U --> W["React + TanStack Start<br/>TypeScript, Tailwind"]
-    W --> F["Supabase Edge Functions<br/>(22)"]
+    W --> F["Supabase Edge Functions<br/>(21)"]
     F --> DB[("Postgres<br/>165 migrations")]
     F --> AI["AI chat +<br/>audio transcription"]
     F --> PAY["Apple + Stripe<br/>subscriptions"]
