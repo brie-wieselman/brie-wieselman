@@ -61,6 +61,7 @@ Full-quality clips: [Walk the Path](media/walk-the-path.mp4) · [localcurrent.ai
 | [**content-machine**](https://github.com/brie-wieselman/content-machine) | Multi-agent content engine: research, draft, voice-grade, then a hard human approval gate before anything publishes. Bring your own brand config. |
 | [**voiceprint**](https://github.com/brie-wieselman/voiceprint) | Extracts a person's real writing voice from evidence: 12 structural dimensions, checkable rules instead of adjectives, plus a pass/fail test for any draft. |
 | [**last-line**](https://github.com/brie-wieselman/last-line) | Web app that writes short-form video scripts in your own voice: 10 self-scored hooks, 3 parallel scripts, then an audit that rewrites anything under 80/100. Plain JS, no backend. [Live](https://lastline.localcurrent.ai). |
+| [**copycat-engine**](https://github.com/brie-wieselman/copycat-engine) | Spec-first build kit for an agent that finds short-form posts that beat their creator's own median, measures why, and writes a build sheet for your own version. Eight phases, eight hard gates. |
 | [**avatar-video-pipeline**](https://github.com/brie-wieselman/avatar-video-pipeline) | One Claude skill that turns a script into an avatar video: ElevenLabs voice, HeyGen render, your own credentials. |
 
 ---
