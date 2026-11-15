@@ -48,7 +48,7 @@ Designed and built by me with AI coding agents. Click any clip to open the live 
 
 [![aliza.health homepage](media/aliza-home.gif)](https://aliza.health)
 
-**[Last Line](https://lastline.localcurrent.ai)**: a free web app that writes short-form video scripts in your own voice. Hook-first pipeline with a built-in self-audit; runs on your own Gemini key.
+**[Last Line](https://lastline.localcurrent.ai)** ([source](https://github.com/brie-wieselman/last-line)): a free web app that writes short-form video scripts in your own voice. Hook-first pipeline with a built-in self-audit; runs on your own Gemini key.
 
 Full-quality clips: [Walk the Path](media/walk-the-path.mp4) · [localcurrent.ai](media/localcurrent.mp4) · [aliza.health](media/aliza-home.mp4)
 
@@ -60,6 +60,7 @@ Full-quality clips: [Walk the Path](media/walk-the-path.mp4) · [localcurrent.ai
 |---|---|
 | [**content-machine**](https://github.com/brie-wieselman/content-machine) | Multi-agent content engine: research, draft, voice-grade, then a hard human approval gate before anything publishes. Bring your own brand config. |
 | [**voiceprint**](https://github.com/brie-wieselman/voiceprint) | Extracts a person's real writing voice from evidence: 12 structural dimensions, checkable rules instead of adjectives, plus a pass/fail test for any draft. |
+| [**last-line**](https://github.com/brie-wieselman/last-line) | Web app that writes short-form video scripts in your own voice: 10 self-scored hooks, 3 parallel scripts, then an audit that rewrites anything under 80/100. Plain JS, no backend. [Live](https://lastline.localcurrent.ai). |
 | [**avatar-video-pipeline**](https://github.com/brie-wieselman/avatar-video-pipeline) | One Claude skill that turns a script into an avatar video: ElevenLabs voice, HeyGen render, your own credentials. |
 
 ---
