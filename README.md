@@ -32,6 +32,28 @@ What's under the hood:
 
 ---
 
+## Websites
+
+Designed and built by me with AI coding agents. Click any clip to open the live site.
+
+**[Walk the Path](https://walk.aliza.health)**: a scroll-driven film for Aliza. Each scroll step is a scene; the copy and the jungle build together. GSAP ScrollTrigger + Lenis.
+
+[![Walk the Path scroll film](media/walk-the-path.gif)](https://walk.aliza.health)
+
+**[localcurrent.ai](https://localcurrent.ai)**: my design studio's site. A WebGL river opens the page and carries you through it.
+
+[![localcurrent.ai opener](media/localcurrent.gif)](https://localcurrent.ai)
+
+**[aliza.health](https://aliza.health)**: the Aliza sales site, from first question to App Store.
+
+[![aliza.health homepage](media/aliza-home.gif)](https://aliza.health)
+
+**[Last Line](https://lastline.localcurrent.ai)**: a free web app that writes short-form video scripts in your own voice. Hook-first pipeline with a built-in self-audit; runs on your own Gemini key.
+
+Full-quality clips: [Walk the Path](media/walk-the-path.mp4) · [localcurrent.ai](media/localcurrent.mp4) · [aliza.health](media/aliza-home.mp4)
+
+---
+
 ## Open source
 
 | Repo | What it does |
